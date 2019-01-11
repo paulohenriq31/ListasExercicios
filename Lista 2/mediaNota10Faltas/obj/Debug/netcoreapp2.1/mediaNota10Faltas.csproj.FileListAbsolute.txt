@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\bin\Debug\netcoreapp2.1\mediaNota10Faltas.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\bin\Debug\netcoreapp2.1\mediaNota10Faltas.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\bin\Debug\netcoreapp2.1\mediaNota10Faltas.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\bin\Debug\netcoreapp2.1\mediaNota10Faltas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\bin\Debug\netcoreapp2.1\mediaNota10Faltas.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\mediaNota10Faltas\obj\Debug\netcoreapp2.1\mediaNota10Faltas.pdb

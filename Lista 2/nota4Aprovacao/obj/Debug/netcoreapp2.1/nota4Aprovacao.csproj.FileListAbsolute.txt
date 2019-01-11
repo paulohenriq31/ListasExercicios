@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\bin\Debug\netcoreapp2.1\nota4Aprovacao.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\bin\Debug\netcoreapp2.1\nota4Aprovacao.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\bin\Debug\netcoreapp2.1\nota4Aprovacao.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\bin\Debug\netcoreapp2.1\nota4Aprovacao.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\bin\Debug\netcoreapp2.1\nota4Aprovacao.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\nota4Aprovacao\obj\Debug\netcoreapp2.1\nota4Aprovacao.pdb

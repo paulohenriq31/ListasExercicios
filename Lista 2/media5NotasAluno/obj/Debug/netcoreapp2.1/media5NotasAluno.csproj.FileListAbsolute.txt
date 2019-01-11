@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\bin\Debug\netcoreapp2.1\media5NotasAluno.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\bin\Debug\netcoreapp2.1\media5NotasAluno.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\bin\Debug\netcoreapp2.1\media5NotasAluno.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\bin\Debug\netcoreapp2.1\media5NotasAluno.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\bin\Debug\netcoreapp2.1\media5NotasAluno.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media5NotasAluno\obj\Debug\netcoreapp2.1\media5NotasAluno.pdb

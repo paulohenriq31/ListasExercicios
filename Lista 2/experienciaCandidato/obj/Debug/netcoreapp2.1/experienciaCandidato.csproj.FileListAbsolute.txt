@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\bin\Debug\netcoreapp2.1\experienciaCandidato.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\bin\Debug\netcoreapp2.1\experienciaCandidato.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\bin\Debug\netcoreapp2.1\experienciaCandidato.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\bin\Debug\netcoreapp2.1\experienciaCandidato.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\bin\Debug\netcoreapp2.1\experienciaCandidato.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\experienciaCandidato\obj\Debug\netcoreapp2.1\experienciaCandidato.pdb

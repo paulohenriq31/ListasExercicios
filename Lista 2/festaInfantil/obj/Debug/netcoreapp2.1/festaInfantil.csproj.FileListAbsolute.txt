@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\bin\Debug\netcoreapp2.1\festaInfantil.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\bin\Debug\netcoreapp2.1\festaInfantil.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\bin\Debug\netcoreapp2.1\festaInfantil.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\bin\Debug\netcoreapp2.1\festaInfantil.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\bin\Debug\netcoreapp2.1\festaInfantil.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\festaInfantil\obj\Debug\netcoreapp2.1\festaInfantil.pdb

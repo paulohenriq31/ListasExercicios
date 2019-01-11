@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\bin\Debug\netcoreapp2.1\estoqueMedia.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\bin\Debug\netcoreapp2.1\estoqueMedia.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\bin\Debug\netcoreapp2.1\estoqueMedia.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\bin\Debug\netcoreapp2.1\estoqueMedia.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\bin\Debug\netcoreapp2.1\estoqueMedia.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\estoqueMedia\obj\Debug\netcoreapp2.1\estoqueMedia.pdb

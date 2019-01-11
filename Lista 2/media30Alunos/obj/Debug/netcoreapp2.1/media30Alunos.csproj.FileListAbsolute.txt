@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\bin\Debug\netcoreapp2.1\media30Alunos.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\bin\Debug\netcoreapp2.1\media30Alunos.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\bin\Debug\netcoreapp2.1\media30Alunos.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\bin\Debug\netcoreapp2.1\media30Alunos.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\bin\Debug\netcoreapp2.1\media30Alunos.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.dll
+C:\Users\Paulo\Documents\Cursos\Guto\Lista 2\media30Alunos\obj\Debug\netcoreapp2.1\media30Alunos.pdb
