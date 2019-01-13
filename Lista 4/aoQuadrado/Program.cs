@@ -1,4 +1,6 @@
-﻿using System;
+﻿/*Efetuar a leitura de um valor numérico inteiro e apresentar o resultado do valor lido elevado ao quadrado.
+ */
+using System;
 
 namespace aoQuadrado
 {
@@ -14,7 +16,7 @@ namespace aoQuadrado
             elevado = valor*valor;
 
             Console.WriteLine("O valor de "+valor+" elevado ao quadradro é de "+elevado);
-            
+
         }
     }
 }
