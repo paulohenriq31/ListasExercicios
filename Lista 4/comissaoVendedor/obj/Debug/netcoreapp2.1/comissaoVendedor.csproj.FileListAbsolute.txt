@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\bin\Debug\netcoreapp2.1\comissaoVendedor.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\bin\Debug\netcoreapp2.1\comissaoVendedor.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\bin\Debug\netcoreapp2.1\comissaoVendedor.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\bin\Debug\netcoreapp2.1\comissaoVendedor.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\bin\Debug\netcoreapp2.1\comissaoVendedor.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\comissaoVendedor\obj\Debug\netcoreapp2.1\comissaoVendedor.pdb
