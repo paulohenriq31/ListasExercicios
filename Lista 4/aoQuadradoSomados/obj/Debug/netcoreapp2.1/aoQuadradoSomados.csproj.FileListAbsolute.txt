@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\bin\Debug\netcoreapp2.1\aoQuadradoSomados.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\bin\Debug\netcoreapp2.1\aoQuadradoSomados.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\bin\Debug\netcoreapp2.1\aoQuadradoSomados.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\bin\Debug\netcoreapp2.1\aoQuadradoSomados.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\bin\Debug\netcoreapp2.1\aoQuadradoSomados.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadradoSomados\obj\Debug\netcoreapp2.1\aoQuadradoSomados.pdb
