@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\bin\Debug\netcoreapp2.1\cotacaoDolar.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\cotacaoDolar\obj\Debug\netcoreapp2.1\cotacaoDolar.pdb
