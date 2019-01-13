@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\bin\Debug\netcoreapp2.1\media4notas.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\bin\Debug\netcoreapp2.1\media4notas.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\bin\Debug\netcoreapp2.1\media4notas.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\bin\Debug\netcoreapp2.1\media4notas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\bin\Debug\netcoreapp2.1\media4notas.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\media4notas\obj\Debug\netcoreapp2.1\media4notas.pdb
