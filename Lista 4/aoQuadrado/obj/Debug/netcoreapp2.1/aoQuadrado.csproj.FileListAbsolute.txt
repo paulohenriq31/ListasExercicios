@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\bin\Debug\netcoreapp2.1\aoQuadrado.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\bin\Debug\netcoreapp2.1\aoQuadrado.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\bin\Debug\netcoreapp2.1\aoQuadrado.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\bin\Debug\netcoreapp2.1\aoQuadrado.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\bin\Debug\netcoreapp2.1\aoQuadrado.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\aoQuadrado\obj\Debug\netcoreapp2.1\aoQuadrado.pdb
