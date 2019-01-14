@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\bin\Debug\netcoreapp2.1\operacoesAritimeticas.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\bin\Debug\netcoreapp2.1\operacoesAritimeticas.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\bin\Debug\netcoreapp2.1\operacoesAritimeticas.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\bin\Debug\netcoreapp2.1\operacoesAritimeticas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\bin\Debug\netcoreapp2.1\operacoesAritimeticas.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\operacoesAritimeticas\obj\Debug\netcoreapp2.1\operacoesAritimeticas.pdb

@@ -1,0 +1,11 @@
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\bin\Debug\netcoreapp2.1\diferenciaQuadrada.deps.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\bin\Debug\netcoreapp2.1\diferenciaQuadrada.runtimeconfig.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\bin\Debug\netcoreapp2.1\diferenciaQuadrada.runtimeconfig.dev.json
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\bin\Debug\netcoreapp2.1\diferenciaQuadrada.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\bin\Debug\netcoreapp2.1\diferenciaQuadrada.pdb
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.csprojAssemblyReference.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.csproj.CoreCompileInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.AssemblyInfoInputs.cache
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.AssemblyInfo.cs
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.dll
+C:\Users\Paulo\Documents\Cursos\Guto\ListasExercicios\Lista 4\diferenciaQuadrada\obj\Debug\netcoreapp2.1\diferenciaQuadrada.pdb
