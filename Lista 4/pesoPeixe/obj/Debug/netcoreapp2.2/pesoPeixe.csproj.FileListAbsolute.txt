@@ -1,0 +1,11 @@
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\bin\Debug\netcoreapp2.2\pesoPeixe.deps.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\bin\Debug\netcoreapp2.2\pesoPeixe.runtimeconfig.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\bin\Debug\netcoreapp2.2\pesoPeixe.runtimeconfig.dev.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\bin\Debug\netcoreapp2.2\pesoPeixe.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\bin\Debug\netcoreapp2.2\pesoPeixe.pdb
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.csprojAssemblyReference.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.csproj.CoreCompileInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.AssemblyInfoInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.AssemblyInfo.cs
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\pesoPeixe\obj\Debug\netcoreapp2.2\pesoPeixe.pdb
