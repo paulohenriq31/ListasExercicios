@@ -1,0 +1,11 @@
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\bin\Debug\netcoreapp2.1\volumeCaixa.deps.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\bin\Debug\netcoreapp2.1\volumeCaixa.runtimeconfig.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\bin\Debug\netcoreapp2.1\volumeCaixa.runtimeconfig.dev.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\bin\Debug\netcoreapp2.1\volumeCaixa.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\bin\Debug\netcoreapp2.1\volumeCaixa.pdb
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.csprojAssemblyReference.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.csproj.CoreCompileInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.AssemblyInfoInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.AssemblyInfo.cs
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\volumeCaixa\obj\Debug\netcoreapp2.1\volumeCaixa.pdb
