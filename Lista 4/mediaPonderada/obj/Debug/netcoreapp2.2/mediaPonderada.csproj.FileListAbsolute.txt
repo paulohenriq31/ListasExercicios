@@ -1,0 +1,11 @@
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.csprojAssemblyReference.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.csproj.CoreCompileInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.AssemblyInfoInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.AssemblyInfo.cs
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\bin\Debug\netcoreapp2.2\mediaPonderada.deps.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\bin\Debug\netcoreapp2.2\mediaPonderada.runtimeconfig.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\bin\Debug\netcoreapp2.2\mediaPonderada.runtimeconfig.dev.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\bin\Debug\netcoreapp2.2\mediaPonderada.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\bin\Debug\netcoreapp2.2\mediaPonderada.pdb
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\mediaPonderada\obj\Debug\netcoreapp2.2\mediaPonderada.pdb
