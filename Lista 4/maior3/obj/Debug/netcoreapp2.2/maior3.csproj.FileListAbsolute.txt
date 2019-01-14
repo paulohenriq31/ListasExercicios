@@ -1,0 +1,11 @@
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\bin\Debug\netcoreapp2.2\maior3.deps.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\bin\Debug\netcoreapp2.2\maior3.runtimeconfig.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\bin\Debug\netcoreapp2.2\maior3.runtimeconfig.dev.json
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\bin\Debug\netcoreapp2.2\maior3.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\bin\Debug\netcoreapp2.2\maior3.pdb
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.csprojAssemblyReference.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.csproj.CoreCompileInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.AssemblyInfoInputs.cache
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.AssemblyInfo.cs
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.dll
+C:\Users\lanfo\Documents\Paulo\ListasExercicios\Lista 4\maior3\obj\Debug\netcoreapp2.2\maior3.pdb
