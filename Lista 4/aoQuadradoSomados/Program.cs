@@ -21,6 +21,7 @@ namespace aoQuadradoSomados
             n4 = n4*n4;
 
             somaTotal = (n1+n2+n3+n4);
+            //Console.Clear() serve para limpar a tela
             Console.Clear();
             Console.WriteLine("O valor total é de " +somaTotal);
         }
